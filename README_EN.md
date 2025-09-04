@@ -1,8 +1,6 @@
 <div align="center">
 
-![Crypto Trading System](./images/logo.png)
-
-# 🚀 Cryptocurrency Exchange Auto Copy Trading System
+# 🚀 Cryptocurrency Exchange Trading System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
