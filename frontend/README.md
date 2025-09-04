@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Frontend Interface](../img/962ccb828336314dc1707d1a7766287b.png)
+![Frontend Interface](../images/mobile-responsive.png)
 
 **现代化Web管理控制台**
 
@@ -64,7 +64,7 @@ frontend/
 
 #### 主界面布局
 ```
-![主界面](../img/6a057215-b740-423d-86f5-106bf1aad079.png)
+![主界面](../images/dashboard-overview.png)
 ```
 
 #### 响应式设计
