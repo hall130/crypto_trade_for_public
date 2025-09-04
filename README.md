@@ -1,8 +1,6 @@
 <div align="center">
 
-![Crypto Trading System](./images/logo.png)
-
-# 🚀 加密货币交易所自动跟单系统
+# 🚀 企业级加密货币交易系统
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -12,6 +10,10 @@
 **专业的加密货币交易所自动跟单解决方案，支持OKX等主流交易所**
 
 [📖 查看文档](#-文档目录) • [🚀 快速开始](#-快速开始) • [💡 功能特性](#-功能特性) • [📊 界面预览](#-界面预览) • [📞 技术支持](#-技术支持)
+
+---
+
+**语言版本**: 🇨🇳 中文 | [🇺🇸 English](./README_EN.md)
 
 ---
 

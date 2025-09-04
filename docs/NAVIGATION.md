@@ -2,6 +2,8 @@
 
 本页面提供了加密货币交易所自动跟单系统的完整文档导航结构，帮助您快速找到所需信息。
 
+**语言版本**: 🇨🇳 中文 | [🇺🇸 English](./NAVIGATION_EN.md)
+
 ## 📚 主要文档
 
 ### 🏠 [主文档 (README.md)](../README.md)
@@ -192,12 +194,18 @@
 - **2024-01-15**: 创建导航索引文档
 - **2024-01-15**: 优化文档间关联跳转
 - **2024-01-15**: 添加快速导航功能
+- **2024-01-15**: 创建英文版本文档，实现中英文切换
 
 ### 贡献指南
 如果您发现文档中的问题或有改进建议，欢迎：
 1. 提交 [GitHub Issue](https://github.com/hall130/crypto_trade_for_public/issues)
 2. 发送邮件至 saylas163@gmail.com
 3. 参与 [GitHub Discussions](https://github.com/hall130/crypto_trade_for_public/discussions)
+
+## 🌐 语言版本
+
+- **中文版本**: 当前文档
+- **English Version**: [Complete Navigation Index](./NAVIGATION_EN.md)
 
 ---
 
